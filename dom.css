@@ -20,3 +20,8 @@ p{
     padding :10px;
     font-weight:bolder;
 }
+#heading1{
+        background-color: cadetblue;
+        border:2px solid white;
+        box-shadow: 3px;
+}
